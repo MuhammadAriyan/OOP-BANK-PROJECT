@@ -1,0 +1,14 @@
+{
+  "name": "oop-mybank",
+  "version": "1.0.0",
+  "description": "THIS IS MY OOP BANK PROJECT",
+  "main": "index.js",
+  "type":"module",
+  "bin": "./OOP_BANK.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "ARYAN",
+  "license": "ISC"
+}
